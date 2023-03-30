@@ -1,2 +1,6 @@
 # dice-game-javascript-intermediate
-This helps you learning some intermediate concepts of Javascript, like changing the source for an image, changing text through Javascript and all that fun stuff.
+This small project will help you learn some intermediate concepts of Javascript.
+1: Changing the source of an image tag with Javascript.
+2: Changing text through Javascript.
+3: Working with Javascript arrays.
+I hope it will help you understand these concepts a little bit better. 😊
